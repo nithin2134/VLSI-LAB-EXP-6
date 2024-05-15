@@ -77,18 +77,30 @@ i.	Execute Simulation -- Net list and Run
 ![image](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/da0e4d07-c05f-421b-b5f3-bc061983226e)
 
 **Specifications:**
-Vpulse 
+Vpulse 
+
     V1 = 0	       
+   
     V2 = 1
+    
     td = 0,tr=tf=1 n, ton= 100n ,T=200n
+    
     Vdc = 1
+
 Simulation Settings
+
 Setup for transient analysis:
+
    Stop time =400n
+
 Setup for D.C analysis
+
 Component to be selected in schematic is for d.c analysis
+
     Start = -1 Stop = 1 resp.
+
 Expected Waveform:
+
 **Transient Analysis:**
 
 ![output cad](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/eb121860-25a3-4dd3-82d3-be7852279d3d)
@@ -104,12 +116,15 @@ Expected Waveform:
 
 
 **Specifications:**
+
 Vpulse 
+
 Va1 = 0 Va2 = 1 tr=tf=50ps, period=20ns pulse width = 10ns
 
 Vb1 = 0 Vb2 = 1 tr=tf=50ps, period=40ns pulse width = 20ns
 
 Vdc = 1
+
 Expected Waveform:
 
 **Transient Analysis:**
@@ -123,12 +138,15 @@ Expected Waveform:
 ![image](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/a1ab54fb-65a2-4650-834b-660332d549f1)
 
 **Specifications:**
+
 Vpulse 
+
 Va1 = 0 Va2 = 1 tr=tf=50ps, period=20ns pulse width = 10ns
 
 Vb1 = 0 Vb2 = 1 tr=tf=50ps, period=40ns pulse width = 20ns
 
 Vdc = 1
+
 Expected Waveform:
 
 **Transient Analysis:**
