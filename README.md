@@ -70,7 +70,7 @@ g.	Execute Output s—to be plotted – Select on Schematic
 h.	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 i.	Execute Simulation -- Net list and Run
 
-INVERTER SCHEMATIC:
+**INVERTER SCHEMATIC:**
 
 ![2021-inverter-design-in-cadence](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/799e47d7-0302-4ea2-9ac3-aabaf81cd7e6)
 
@@ -90,13 +90,16 @@ Component to be selected in schematic is for d.c analysis
     Start = -1 Stop = 1 resp.
 Expected Waveform:
 **Transient Analysis:**
+
 ![output cad](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/eb121860-25a3-4dd3-82d3-be7852279d3d)
 
 **DC Analysis:**
 ![out](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/1247eda1-1aa4-4a66-a502-1e3ddcc98ec3)
 
 **NAND SCHEMATIC :**
+
 ![image](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/bc8d71ff-d898-4fd6-aa39-5fac4be18417)
+
 ![image](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/dcae4c10-4436-43df-8be5-aaf72a756c93)
 
 
@@ -108,12 +111,15 @@ Vb1 = 0 Vb2 = 1 tr=tf=50ps, period=40ns pulse width = 20ns
 
 Vdc = 1
 Expected Waveform:
+
 **Transient Analysis:**
 
 ![nand](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/f6e4e117-f164-46f3-8102-2fc13e7582d1)
 
 **NOR SCHEMATIC:**
+
 ![image](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/e3de188c-07e2-45c7-8365-a735b98ab1b3)
+
 ![image](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/a1ab54fb-65a2-4650-834b-660332d549f1)
 
 **Specifications:**
@@ -124,11 +130,14 @@ Vb1 = 0 Vb2 = 1 tr=tf=50ps, period=40ns pulse width = 20ns
 
 Vdc = 1
 Expected Waveform:
+
 **Transient Analysis:**
+
 ![nor](https://github.com/nithin2134/VLSI-LAB-EXP-6/assets/160302970/6aceaa60-8283-4cdc-a250-642f737d597e)
 
 
 **RESULT:**
+
 Thus, the design,simulation and verification of the CMOS inverter,NAND,NOR from schematic using cadence was successfully completed.
 
 
