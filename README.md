@@ -1,8 +1,12 @@
 # VLSI-LAB-EXP-6
-AIM:
+
+**SCHEMATIC ENTRY AND CIRCUIT SIMULATION OF A CMOS INVERTER
+TWO INPUT NAND GATE  AND TWO INPUT NOR GATE**
+
+**AIM:**
 To create,simulate the design of CMOS inverter,NAND,NOR from schematic using cadence.
 
-APPARATUS REQUIRED:
+**APPARATUS REQUIRED:**
 cadence
 
 PROCEDURE:
